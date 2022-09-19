@@ -1,2 +1,2 @@
 # To-Do List 
-Repository for the CS474 individual project. The software created for this project will be a to-do list.
+The following repository will contain all the files for an individual to-do list project. The to-do list will have a web interface in which users can create reminders about events, or tasks, for themselves. When an event has concluded, or a task has been completed, the user will be able to remove it from the software. Additionally, any specifics about an item on the list changes, the user will be able to modify it on the software. Moreover, the software will provide users the ability to search for items at a nearby supermarket. This will allow users to plan out their grocery shopping using the app. 
